@@ -1,0 +1,47 @@
+.Counter{
+  display: inline; 
+}
+
+#LikeImg {
+height: 45px;
+width: 45px;
+}
+
+#UnlikeImg {
+  height: 45px;
+  width: 45px; 
+}
+
+#likebtn {
+  color: rgb(7, 142, 239);
+  border-color: rgb(8, 135, 220);   
+  border-style: solid;
+  border-width: 2px; 
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 1s, color 1s;
+}
+
+#unlikebtn {
+  color: rgb(7, 142, 239);
+  border-color: rgb(8, 135, 220);   
+  border-style: solid;
+  border-width: 2px; 
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 1s, color 1s;
+}
+
+#likesCount{
+  display: inline;  
+}

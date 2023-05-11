@@ -1,0 +1,49 @@
+.practice{
+  text-align: center;
+}
+
+#btnYes {
+  background-color: rgb(254, 254, 254);
+  color: rgb(7, 142, 239);
+  border-color: rgb(8, 135, 220);   
+  border-style: solid;
+  border-width: 2px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 1s, color 1s;
+  
+}
+#btnYes:hover{
+  background-color: blue;
+  color: aliceblue;
+}
+
+#btnOk {
+  background-color: rgb(9, 155, 234);
+  color: rgb(250, 251, 252);
+  border-color: rgb(8, 135, 220);   
+  border-style: solid;
+  border-width: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 8px;
+  font-size : 15px;
+  transition: box-shadow 0.15s;
+}
+
+#btnOk:hover{
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.16);
+}
+
+#likeStatement{
+  display: inline;  
+}

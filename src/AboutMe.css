@@ -1,0 +1,13 @@
+.AboutMe{
+  text-align: center;
+}
+
+li{
+  display: inline;
+  padding-left: 2%;
+}
+img {
+  padding-left: 2%;
+  width: 200;
+  height: 200; 
+}
